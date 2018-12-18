@@ -1,0 +1,5 @@
+
+# npm install -g json2csv
+# json2csv --help
+# json2csv -i vle_metadata.vle_metadata_collection-000000000000.json -o test.csv
+
